@@ -2,12 +2,13 @@
 Seja bem-vindo aorRepositório dos Projetos Open Source do RN
 
 # Sumário
-  - [Novato](#Novato)
+  - [Novato](#novato)
   - [Contribuindo](#contribuindo)
   - [Divulgando](#divulgando)
-  - [Comunidades](comunidades)
+  - [Comunidades](#comunidades)
 
-## Sei nada de GitHub
+## Novato
+`Sei nada de GitHub`
 Olá, caso você não sabe o que é Git e GitHub, oq é Branch, Pull Requests, etc.. Aqui estão alguns repositorios que ensina a começar no mundo do GitHub.
 
 [Minicurso-de-git-e-Github](https://github.com/allythy/Minicurso-de-git-e-Github) - `by Allythy`
