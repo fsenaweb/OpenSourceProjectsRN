@@ -39,6 +39,13 @@ Crie uma issue, contendo:
 - Linguagens
 - Autores Principais
 
+#
+##### Lista de Projetos
 
+Projeto   | Descrição
+--------- | ------
+[SisHosting](https://github.com/fsenaweb/SisHosting) | Sistema de Gerenciamento de WebHosting básico
+
+#
 ## Comunidades
  - [Comunidades Potiguares](https://github.com/pbaesse/comunidades-ti-rn)
