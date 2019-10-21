@@ -11,9 +11,9 @@ Seja bem-vindo aorRepositório dos Projetos Open Source do RN
 `Sei nada de GitHub`
 Olá, caso você não sabe o que é Git e GitHub, oq é Branch, Pull Requests, etc.. Aqui estão alguns repositorios que ensina a começar no mundo do GitHub.
 
-[Minicurso-de-git-e-Github](https://github.com/allythy/Minicurso-de-git-e-Github) - `by Allythy`
-[git-tutorial](https://github.com/tyronedamasceno/git-tutorial) - `by Tyrone`
-[How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
+ - [Minicurso-de-git-e-Github](https://github.com/allythy/Minicurso-de-git-e-Github) - `by Allythy`
+ - [git-tutorial](https://github.com/tyronedamasceno/git-tutorial) - `by Tyrone`
+ - [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
 
    ```
    Caso tenha outro, só adicionar
@@ -43,4 +43,5 @@ Crie uma issue, contendo:
 ## Comunidades
 [Comunidades Potiguares] (https://github.com/pbaesse/comunidades-ti-rn)
 
-
+## Licença
+MIT
