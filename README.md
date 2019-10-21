@@ -1,5 +1,5 @@
 # OpenSourceProjectsRN
-Seja bem-vindo aorRepositório dos Projetos Open Source do RN
+Seja bem-vindo ao Repositório dos Projetos Open Source do RN
 
 # Sumário
   - [Novato](#novato)
@@ -41,7 +41,7 @@ Crie uma issue, contendo:
 
 
 ## Comunidades
-[Comunidades Potiguares] (https://github.com/pbaesse/comunidades-ti-rn)
+[Comunidades Potiguares](https://github.com/pbaesse/comunidades-ti-rn)
 
 ## Licença
 MIT
