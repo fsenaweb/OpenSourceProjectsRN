@@ -22,10 +22,10 @@ Olá, caso você não sabe o que é Git e GitHub, oq é Branch, Pull Requests, e
 ## Contribuindo
 Procure um projeto com sua linguagem preferida nas issues, achado..
 
-1. Faça o fork do projeto
-2. Crie uma branch para sua modificação (git checkout -b feature/nome_da_feature)
-3. Faça o commit (git commit -am 'Add feature nome_da_feature')
-4 .Push (git push origin feature/nome_da_feature)
+1. Faça o fork do projeto (git clone <link_do_repositorio>)
+2. Crie uma branch para fazer modificar (git checkout -b feature/nome_da_feature)
+3. Faça o commit (git commit -am 'Feita tal <feature>')
+4. Faça o Push (git push origin feature/nome_da_feature)
 5. Crie um novo Pull Request
 6. Aguarde a revisão
 
@@ -41,7 +41,4 @@ Crie uma issue, contendo:
 
 
 ## Comunidades
-[Comunidades Potiguares](https://github.com/pbaesse/comunidades-ti-rn)
-
-## Licença
-MIT
+ - [Comunidades Potiguares](https://github.com/pbaesse/comunidades-ti-rn)
